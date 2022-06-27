@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/wyt-resume.github.io/css/page.css","f911d7f1b1bf07bcc225d3e20e5329a9"],["/wyt-resume.github.io/css/style.min.css","16a4cc20ac2ecce2dfd8bc11dcf43592"],["/wyt-resume.github.io/css/vue-pdf.css","11bbd2640eef9c8ac9949795573df0f7"],["/wyt-resume.github.io/index.html","f9df808199dbe8a439abea167a187aaa"],["/wyt-resume.github.io/js/common.js","ae798d30af603c3cbf2fa6549151dd0b"],["/wyt-resume.github.io/js/css.escape.js","fe4db48c9e3f272a6d12cf1312de889e"],["/wyt-resume.github.io/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"],["/wyt-resume.github.io/zh-cn/index.html","83bf36c71d5a7d6260e3b1e9e281b356"]];
+var precacheConfig = [["/wyt-resume.github.io/css/page.css","095b18bc2b3b5392bb6a4699301b37ef"],["/wyt-resume.github.io/css/style.min.css","16a4cc20ac2ecce2dfd8bc11dcf43592"],["/wyt-resume.github.io/css/vue-pdf.css","aa1f6c27fbe5f43bbd42eb620135eff7"],["/wyt-resume.github.io/index.html","77d53d4658c4c384336ab7da5905e5a4"],["/wyt-resume.github.io/js/common.js","ae798d30af603c3cbf2fa6549151dd0b"],["/wyt-resume.github.io/js/css.escape.js","fe4db48c9e3f272a6d12cf1312de889e"],["/wyt-resume.github.io/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"],["/wyt-resume.github.io/zh-cn/index.html","83bf36c71d5a7d6260e3b1e9e281b356"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
